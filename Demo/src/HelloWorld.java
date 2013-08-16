@@ -13,4 +13,14 @@ public class HelloWorld {
 	}
 	
 
+	
+	public void sayWhat (){
+		
+		System.out.println("What");
+		
+
+		
+		
+	}
+	
 }
