@@ -22,4 +22,14 @@ public void sayNever (){
 	}
 	
 
+	
+	public void sayWhat (){
+		
+		System.out.println("What");
+		
+
+		
+		
+	}
+	
 }
