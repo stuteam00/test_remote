@@ -12,5 +12,14 @@ public class HelloWorld {
 		
 	}
 	
+public void sayNever (){
+		
+		System.out.println("Never");
+		
+		
+		
+		
+	}
+	
 
 }
