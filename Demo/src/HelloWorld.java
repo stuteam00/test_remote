@@ -14,6 +14,8 @@ public class HelloWorld {
 	
 public void sayNever (){
 		
+		System.out.println("We don't want conflict");
+		
 		System.out.println("We want resolution");
 		
 		
